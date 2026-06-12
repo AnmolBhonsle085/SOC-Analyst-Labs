@@ -13,7 +13,9 @@
 - Performed MX Lookup on gmail.com.
 Identified mail exchange servers.
 - Conducted DNS lookup on MX records.
-Reviewed associated DNS information.
+  Reviewed associated DNS information.
+- Observed details like IP addresses, DNS records, and related infrastructure.
+- Document your findings with screenshots.
 
 **Findings:**
 
