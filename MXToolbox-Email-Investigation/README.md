@@ -30,3 +30,5 @@ Documented observations and findings
 
 - Identified Google's mail servers and associated DNS records.
 - Observed how MX records support email delivery and routing.
+- Verified SPF, DKIM, and DMARC email security configurations.
+- Gained understanding of email routing and authentication mechanisms.
