@@ -12,7 +12,9 @@
 
 - 4624 – Successful logon
 - 4625 – Failed logon
-- 4634 – Logoff
+- 4672 - Special Privileges Assigned
+- 4104 - PowerShell Script Block Logging
+- 4672 – Logoff
 - 4720 – User account created
 - 4726 – User account deleted
 
