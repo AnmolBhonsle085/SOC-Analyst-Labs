@@ -2,27 +2,28 @@
 
 **Objective**
 
-Practice using VirusTotal to investigate Indicators of Compromise (IOCs).
+- Practice using VirusTotal to investigate Indicators of Compromise (IOCs).
 
 **Activities Performed**
 
-Searched a private IP address (192.168.1.10).
-Identified it as a private/internal IP.
-Uploaded a DOCX file to VirusTotal.
-Reviewed SHA-256 hash information.
-Checked detection results from multiple security vendors.
+- Searched a private IP address (192.168.1.10).
+- Identified it as a private/internal IP.
+- Uploaded a DOCX file to VirusTotal.
+- Reviewed SHA-256 hash information.
+- Checked detection results from multiple security vendors.
 
 **Key Learnings**
 
-Difference between private and public IP addresses.
-How VirusTotal analyzes files and IPs.
-How to locate file hashes (SHA-256).
-Basic IOC investigation workflow used by SOC analysts.
+- Difference between private and public IP addresses.
+- How VirusTotal analyzes files and IPs.
+- How to locate file hashes (SHA-256).
+- Basic IOC investigation workflow used by SOC analysts.
 
 **Tools Used**
 
-VirusTotal
+-VirusTotal
+
 That's enough to demonstrate:
-Familiarity with VirusTotal
-IOC analysis basics
-Documentation skills
+- Familiarity with VirusTotal
+- IOC analysis basics
+- Documentation skills
