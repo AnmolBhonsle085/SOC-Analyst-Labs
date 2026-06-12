@@ -7,15 +7,24 @@
 **Tools Used:**
 
 - MXToolbox
+  
+**Check Performed**  
+
+- MX Record Lookup
+- DNS Lookup on MX servers
+- SPF Record Lookup
+- DKIM Record Lookup
+- DMARC Record Lookup
 
 **Steps Performed:**
 
 - Performed MX Lookup on gmail.com.
-Identified mail exchange servers.
-- Conducted DNS lookup on MX records.
-  Reviewed associated DNS information.
-- Observed details like IP addresses, DNS records, and related infrastructure.
-- Document your findings with screenshots.
+Identified Google's mail exchange servers.
+- Conducted DNS lookup on the discovered mail servers.
+- Reviewed SPF records to identify authorized email senders.
+- Examined DKIM records used for email authentication.
+- Analyzed DMARC policies for email spoofing protection.
+Documented observations and findings
 
 **Findings:**
 
