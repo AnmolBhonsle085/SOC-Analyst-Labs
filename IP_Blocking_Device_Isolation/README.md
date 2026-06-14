@@ -32,7 +32,7 @@ _**IP Blocking**_
 - Confirmed the firewall rule was created successfully.
 - Verified communication with the blocked IP address was denied.
 
-
+_______________________________________
 
 _**Device Isolation**_
 
