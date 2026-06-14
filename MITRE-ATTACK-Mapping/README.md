@@ -17,7 +17,6 @@
 
 **Findings**
 
-- Mapped brute-force activity to T1110 (Brute Force).
 - Mapped privileged logon activity (Event ID 4672) to T1078 (Valid Accounts).
 - Identified tactics including Initial Access, Execution, and Credential Access.
 
