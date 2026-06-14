@@ -1,4 +1,4 @@
-**IP Blocking and Device Isolation**
+_**IP Blocking and Device Isolation**_
 
 **Objective**
 
@@ -10,7 +10,7 @@
 - Command Prompt
 - Windows Operating System
   
-**IP Blocking**
+_**IP Blocking**_
 
 **Steps Performed**
 
@@ -32,7 +32,7 @@
 - Confirmed the firewall rule was created successfully.
 - Verified communication with the blocked IP address was denied.
 
-**Device Isolation**
+_**Device Isolation**_
 
 **Steps Performed**
 
