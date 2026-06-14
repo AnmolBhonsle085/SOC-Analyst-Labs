@@ -10,6 +10,7 @@
 - Windows Event Log Analysis
 - MXToolbox Email Investigation
 - IP Blocking & Devie Isolation using Windows Firewall
+- MITRE ATTACK Mapping 
 
 ## Skills Demonstrated
 
