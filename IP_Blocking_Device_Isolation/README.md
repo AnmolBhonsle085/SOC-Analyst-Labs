@@ -10,7 +10,7 @@
 - Command Prompt
 - Windows Operating System
   
-- _**IP Blocking**_
+_**IP Blocking**_
 
 **Steps Performed**
 
@@ -32,7 +32,9 @@
 - Confirmed the firewall rule was created successfully.
 - Verified communication with the blocked IP address was denied.
 
-- _**Device Isolation**_
+
+
+_**Device Isolation**_
 
 **Steps Performed**
 
