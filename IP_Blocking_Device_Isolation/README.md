@@ -40,18 +40,18 @@
 - Right-click Windows Defender Firewall with Advanced Security on Local Computer.
 - Select Properties.
 - Under the Domain Profile tab:
-Inbound Connections: Block
-Outbound Connections: Block
+-Inbound Connections: Block
+-Outbound Connections: Block
 - Repeat the same configuration for:
-Private Profile
-Public Profile
+-Private Profile
+-Public Profile
 - Click Apply and OK.
 - Verify that all network communication is blocked.
   
 **Verification**
 
 - Open Command Prompt.
-- Run:ping 8.8.8.8
+- Run: ping 8.8.8.8
 - Confirm that network communication fails.
 - Attempt to access a website and verify connectivity is blocked.
   
