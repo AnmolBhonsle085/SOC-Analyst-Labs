@@ -1,6 +1,8 @@
 # SOC Analyst Labs
 
-Collection of hands-on SOC analyst labs and investigations.
+- A collection of hands-on cybersecurity labs demonstrating practical SOC Analyst skills in log analysis, threat investigation, email security, event monitoring, and firewall configuration. 
+
+- These labs focus on real-world security operations concepts and provide experience with commonly used security tools and techniques.
 
 ## Labs
 
