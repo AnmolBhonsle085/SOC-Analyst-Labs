@@ -2,28 +2,28 @@
 
 **Objective**
 
-Map security events and techniques to the MITRE ATT&CK framework.
+- Map security events and techniques to the MITRE ATT&CK framework.
 
 **Tools Used**
 
-MITRE ATT&CK Framework
+- MITRE ATT&CK Framework
 
 **Steps Performed**
 
-Reviewed common attack techniques.
-Identified attacker behaviors and tactics.
-Mapped techniques to corresponding ATT&CK IDs.
-Documented observations.
+- Reviewed common attack techniques.
+- Identified attacker behaviors and tactics.
+- Mapped techniques to corresponding ATT&CK IDs.
+- Documented observations.
 
 **Findings**
 
-Mapped brute-force activity to T1110 (Brute Force).
-Mapped PowerShell activity to T1059.001 (PowerShell).
-Identified tactics including Initial Access, Execution, and Credential Access.
+- Mapped brute-force activity to T1110 (Brute Force).
+- Mapped PowerShell activity to T1059.001 (PowerShell).
+- Identified tactics including Initial Access, Execution, and Credential Access.
 
 **Skills Demonstrated**
 
-Threat Analysis
-MITRE ATT&CK Mapping
-Adversary Emulation
-Security Monitoring
+- Threat Analysis
+- MITRE ATT&CK Mapping
+- Adversary Emulation
+- Security Monitoring
