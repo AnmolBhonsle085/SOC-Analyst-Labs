@@ -7,7 +7,7 @@ Collection of hands-on SOC analyst labs and investigations.
 - VirusTotal Analysis
 - Windows Event Log Analysis
 - MXToolbox Email Investigation
-- IP Blocking using Windows Firewall
+- IP Blocking & Devie Isolation using Windows Firewall
 
 ## Skills Demonstrated
 
