@@ -40,11 +40,11 @@
 - Right-click Windows Defender Firewall with Advanced Security on Local Computer.
 - Select Properties.
 - Under the Domain Profile tab:
-- Inbound Connections: Block
-- Outbound Connections: Block
+  1) Inbound Connections: Block
+  2) Outbound Connections: Block
 - Repeat the same configuration for:
-- Private Profile
-- Public Profile
+1) Private Profile
+2) Public Profile
 - Click Apply and OK.
 - Verify that all network communication is blocked.
   
