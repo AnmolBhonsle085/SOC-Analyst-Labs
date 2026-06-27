@@ -1,4 +1,4 @@
-**MXToolbox Email Investigation**
+**Email Security Analysis with Mxtoolbox**
 
 **Objective:**
 
